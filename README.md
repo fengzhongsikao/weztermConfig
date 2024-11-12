@@ -1,6 +1,8 @@
 # weztermConfig
 This is a configuration about Wezerm.
 
+使用了nushell
+windows用户需自行替换.wezterm.lua配置文件里nushell的位置
 
 ## windows用户使用方法 
 
